@@ -1,0 +1,5 @@
+﻿  Win32Main.cpp
+D:\OpenGL\BaseOpenGLProject\BaseOpenGLProject\App.h(107,1): warning C4305:  'argument': truncation from 'double' to 'float'
+D:\OpenGL\BaseOpenGLProject\BaseOpenGLProject\Win32Main.cpp(42,90): warning C4244:  'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\OpenGL\BaseOpenGLProject\BaseOpenGLProject\Win32Main.cpp(42,53): warning C4244:  'argument': conversion from 'LONG' to 'float', possible loss of data
+  BaseOpenGLProject.vcxproj -> D:\OpenGL\BaseOpenGLProject\Debug\BaseOpenGLProject.exe
